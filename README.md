@@ -26,4 +26,6 @@
 
 ## Rainbow Tables
 
-### Rainbow tables can be very useful in cracking passwords. They are essentially a respository of all password hashes, and the investigator must compare a suspected password hash to the repository and will be able to derive the password.
+### Rainbow tables can be very useful in cracking passwords. They are essentially a respository of all password hashes, and the investigator must compare a suspected password hash to the repository and will be able to derive the password. Rainbow tables are easy to create with PowerShell and I used this rainbow table to match a few hash values to their passcode counterparts. Attached is a rainbow table.
+
+![Screenshot](images/rainbowtable.PNG)
