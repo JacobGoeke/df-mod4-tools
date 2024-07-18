@@ -4,13 +4,13 @@
 
 ### Hash databases can be very helpful for identifying known files so that you do not have them in your way during your investigation. Below is an important hash database into the forensic investigation tool Autopsy.
 
-![Screenshot](images/hashDB.png)
+![Screenshot](images/hashDB.PNG)
 
 ## Known Bad Files in Hash Databases
 
 ### Known bad files in hash databases are important for investigators to pick up on evidence when performing an investigation. An attached screenshot is showing an example of a database created in Autopsy for known evidence files.
 
-![Screenshot](images/knownbadhash.png)
+![Screenshot](images/knownbadhash.PNG)
 
 ## Using a Hex Editor to View File Remnants
 
